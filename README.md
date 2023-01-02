@@ -197,8 +197,8 @@
 ## 📊 My Github Stats
 
 <p align="left" style="margin-right:0px;padding-right:0px">
-<img src="https://github-readme-stats.vercel.app/api?username=RevatiJunghare&theme=algolia">
-<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RevatiJunghare&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=bhaveshkumar96&theme=algolia">
+<img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshkumar96&theme=algolia" />
 </p>
 
 
@@ -207,7 +207,7 @@
 ## Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/revati-junghare-612346179/"></a>
+  <a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/"></a>
 
 </p>
 
