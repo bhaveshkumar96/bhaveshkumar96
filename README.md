@@ -85,12 +85,12 @@ Development experience in a product-based company..</h3
    </p>
 <!--  <p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?     username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>  -->
 <!--  [<img src='https://raw.githubusercontent.com/bhaveshkumar96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg' alt='github' height='40' width='60'>](https://github.com/bhaveshkumar96)  [<img src='https://raw.githubusercontent.com/bhaveshkumar96/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/gaurav-singh-63196723a/)   -->
-<p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhaveshkumar96&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
 <div>
-<!--   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/> -->
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaveshkumar96&theme=github_dark" alt="bhaveshkumar96" align = "center"/></p>
 </div>
     <hr>
