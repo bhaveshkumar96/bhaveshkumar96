@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
 <img src="https://i.ibb.co/1Mkn1V8/Bhavesh-Kumar.png" />
 
-<h3 align="center">Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web developer driven by technology.</h3
+<h3 align="center">Enthusiastic Full Stack Web Developer specialized in MERN stack. Keen
+interest in learning new things and working with dynamic teams. Practiced
+400 hours of coding. Looking forward to an exciting opportunity and
+Development experience in a product-based company..</h3
   <hr/>
   <br>
   <br/>
