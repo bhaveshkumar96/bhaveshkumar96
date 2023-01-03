@@ -85,7 +85,7 @@
  
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaveshkumar96&theme=github_light" alt="bhaveshkumar96" align = "center"/></p>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaveshkumar96&theme=github_dark" alt="bhaveshkumar96" align = "center"/></p>
 </div>
     <hr>
    <p align="center">
