@@ -1,72 +1,99 @@
-<div id="top"></div>
 
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"></div>
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Gyan+Prakash;Full+Stack+Web+Developer;From+%3A+Gujarat%2C+India;Front-End+Lover+%3C3)](https://git.io/typing-svg)
-
-<hr>
-
-
-<img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" />
+<img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
+<h1 align="center">Hi 👋, I'm Bhavesh Kumar</h1>
+<h3 align="center">Passionate about implementing and launching new projects. I also possess the ability to translate business requirements into technical solutions. I am looking to start my career as a web developer driven by technology.</h3
+  <hr/>
+  <br>
+  <br/>
+  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyan2501?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+- 🔭 I’m currently working on *MERN Stack*
 
+- 🌱 I’m currently learning *React, Redux, MongoDB, Express*
 
-<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan2501&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=48484852&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakLabel=4F8FE2&background=1E2228&ring=4F8FE2&fire=4F8FE2"/>
+- 👨‍💻 All of my projects are available at <b><a href="https://bhaveshkumar96.github.io" target="_blank">PORTFOLIO</a></b>
 
+- 💬 Ask me about *MERN stack*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight)
+- 📫 How to reach me <b>*bk769221@gmail.com*</b>
 
-# Technologies
+- 📄 Know about my work in my <b><a href="https://drive.google.com/file/d/1qtwMLZiIyi5jg9m4jee5n-_5HCxdjJyX/view?usp=share_link" target="_blank">RESUME</a></b>
 
-### Programming & Markdown, Styling Languages
+- ⚡ Fun fact - *I am creative person and I love nature!*
+   <hr>
+  
+ 
+  <div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhaveshkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshkumar96" /> </p>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### Frameworks, Platforms and Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-### Hosting/SaaS
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
-
-### Testing
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshkumar96" alt="bhaveshkumar" /></a> </p>
+  </div>
+    <br />
+     <br />
+  <h3> 🚀 Languages and Tools:</h3>
+<hr />
 <div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
-    </a>
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+<img src = "https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="center" alt="tailwindcss"/>
+<br/>
+<br/>
+  <img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+  <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
+  
 </div>
+ <br/>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+<img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
+ </div>
+ 
+ <div align="center"><h3 align="center">Tools</h3> 
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
+     <br />
+     <br />
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/footer.png"></div>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayprakashlohar" height="30" width="40" /></a>
+</p>
 
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayprakashlohar&show_icons=true&locale=en&layout=compact" alt="jayprakashlohar" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshkumar96&show_icons=true&locale=en" alt="bhaveshkumar96" /></p>
+   <hr>
+   </p>
+<!--  <p align="center"<a href="#"><img alt="Jay" src="https://activity-graph.herokuapp.com/graph?     username=jayprakashlohar&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>  -->
+ 
+ 
+<div>
+  <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
+  <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaveshkumar96&theme=github_dark" alt="bhaveshkumar96" align = "center"/></p>
+</div>
+    <hr>
+   <p align="center">
+    <i>Take a look at my repositories and let's get in touch!</i><br><br>
+    <code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
+   <img alt="Thank You!" title="Thank You" src="https://img.shields.io/badge/Thank-You-ff69b4.svg"/>
+</p>
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
