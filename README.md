@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"></div>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Gyan+Prakash;Full+Stack+Web+Developer;From+%3A+Gujarat%2C+India;Front-End+Lover+%3C3)](https://git.io/typing-svg)
