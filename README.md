@@ -7,7 +7,6 @@
   <br/>
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
 
-
 - 🔭 I’m currently working on *MERN Stack*
 
 - 🌱 I’m currently learning *React, Redux, MongoDB, Express*
@@ -76,7 +75,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayprakashlohar&show_icons=true&locale=en&layout=compact" alt="jayprakashlohar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshkumar96&show_icons=true&locale=en&layout=compact" alt="jayprakashlohar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshkumar96&show_icons=true&locale=en" alt="bhaveshkumar96" /></p>
    <hr>
