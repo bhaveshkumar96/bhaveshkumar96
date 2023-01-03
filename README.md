@@ -91,7 +91,7 @@ Development experience in a product-based company..</h3
  
 <div>
   <p align='center'><b> :balance_scale: Github Profile Details</b></p><br/>
-  [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhaveshkumar96&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--   [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bhaveshkumar96&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
   <p align="center"><img width="800px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaveshkumar96&theme=github_dark" alt="bhaveshkumar96" align = "center"/></p>
 </div>
     <hr>
