@@ -5,6 +5,8 @@
 interest in learning new things and working with dynamic teams. Practiced
 400 hours of coding. Looking forward to an exciting opportunity and
 Development experience in a product-based company..</h3
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center" alt="html5">
+  
   <hr/>
   <br>
   <br/>
