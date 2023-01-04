@@ -8,7 +8,7 @@ Development experience in a product-based company..</h3
   <hr/>
   <br>
   <br/>
-  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611dd0b5a1d32815ba634cffe95cbb644750574e50d&rid=giphy.gif&ct=g" width="300" height="280" align="right" />
 
 - 🔭 I’m currently working on *MERN Stack*
 
