@@ -75,12 +75,12 @@ Development experience in a product-based company..</h3
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayprakashlohar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="center" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Bhavesh kumar" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshkumar96&show_icons=true&locale=en&layout=compact" alt="jayprakashlohar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshkumar96&show_icons=true&locale=en&layout=compact" alt="Bhavesh kumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaveshkumar96&show_icons=true&locale=en" alt="bhaveshkumar96" /></p>
    <hr>
