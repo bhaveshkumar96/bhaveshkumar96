@@ -75,7 +75,7 @@ Development experience in a product-based company..</h3
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="center" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Bhavesh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="center" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Bhavesh kumar" height="50" width="50" /></a>
 </p>
 
 
