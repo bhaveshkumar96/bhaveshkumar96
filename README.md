@@ -26,8 +26,8 @@ Development experience in a product-based company..</h3
 
 - ⚡ Fun fact - *I am creative person and I love nature!*
   <h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="left" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Bhavesh kumar" height="50" width="50" /></a>
+<p align="centre">
+<a href="https://www.linkedin.com/in/bhavesh-kumar-184451200/" target="blank"><img align="centre" src="https://i.ibb.co/fp7L20F/icons8-linkedin-48.png" alt="Bhavesh kumar" height="50" width="50" /></a>
 </p>
    <hr>
   
