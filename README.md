@@ -35,7 +35,7 @@ Development experience in a product-based company..</h3
   <div align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhaveshkumar96&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshkumar96" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaveshkumar96" alt="bhaveshkumar" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=bhaveshkumar96&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="bhaveshkumar" /></a> </p>
   </div>
     <br />
      <br />
